@@ -14,7 +14,7 @@
 	http://www.springframework.org/schema/tx/spring-tx.xsd">
 
     <!-- 开启注解扫描，管理service和dao -->
-    <context:component-scan base-package="cn.shendu.server">
+    <context:component-scan base-package="cn.shendu.service">
     </context:component-scan>
     <context:component-scan base-package="cn.shendu.dao">
     </context:component-scan>

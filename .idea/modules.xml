@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/drugs.iml" filepath="$PROJECT_DIR$/drugs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/drugs_dao/drugs_dao.iml" filepath="$PROJECT_DIR$/drugs_dao/drugs_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/drugs_domain/drugs_domain.iml" filepath="$PROJECT_DIR$/drugs_domain/drugs_domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/drugs_service/drugs_service.iml" filepath="$PROJECT_DIR$/drugs_service/drugs_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/drugs_utils/drugs_utils.iml" filepath="$PROJECT_DIR$/drugs_utils/drugs_utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/drugs_web/drugs_web.iml" filepath="$PROJECT_DIR$/drugs_web/drugs_web.iml" />
+    </modules>
+  </component>
+</project>

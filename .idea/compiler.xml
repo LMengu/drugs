@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="drugs_dao" />
+        <module name="drugs_domain" />
+        <module name="drugs_service" />
+        <module name="drugs_utils" />
+        <module name="drugs_web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="drugs" target="1.8" />
+      <module name="drugs_dao" target="1.8" />
+      <module name="drugs_domain" target="1.8" />
+      <module name="drugs_service" target="1.8" />
+      <module name="drugs_utils" target="1.8" />
+      <module name="drugs_web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
